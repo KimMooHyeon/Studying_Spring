@@ -13,7 +13,10 @@
   <context-param>
   	<param-name>imgDir</param-name>
   	<param-value>/upload/img</param-value>
-  
+  </context-param>
+    <context-param>
+  	<param-name>testServerIP</param-name>
+  	<param-value>127.0.0.1</param-value>
   </context-param>
   
   
